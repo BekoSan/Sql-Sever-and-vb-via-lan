@@ -1,0 +1,14 @@
+E:\Learning Projects\SqlServerAndVbViaLan\ClientDemo\bin\Debug\ClientDemo.exe.config
+E:\Learning Projects\SqlServerAndVbViaLan\ClientDemo\bin\Debug\ClientDemo.exe
+E:\Learning Projects\SqlServerAndVbViaLan\ClientDemo\bin\Debug\ClientDemo.pdb
+E:\Learning Projects\SqlServerAndVbViaLan\ClientDemo\bin\Debug\ClientDemo.xml
+E:\Learning Projects\SqlServerAndVbViaLan\ClientDemo\bin\Debug\SqlServerAndVbViaLan.Core.dll
+E:\Learning Projects\SqlServerAndVbViaLan\ClientDemo\bin\Debug\SqlServerAndVbViaLan.Core.pdb
+E:\Learning Projects\SqlServerAndVbViaLan\ClientDemo\bin\Debug\SqlServerAndVbViaLan.Core.xml
+E:\Learning Projects\SqlServerAndVbViaLan\ClientDemo\obj\Debug\ClientDemo.vbprojResolveAssemblyReference.cache
+E:\Learning Projects\SqlServerAndVbViaLan\ClientDemo\obj\Debug\ClientDemo.Form1.resources
+E:\Learning Projects\SqlServerAndVbViaLan\ClientDemo\obj\Debug\ClientDemo.Resources.resources
+E:\Learning Projects\SqlServerAndVbViaLan\ClientDemo\obj\Debug\ClientDemo.vbproj.GenerateResource.Cache
+E:\Learning Projects\SqlServerAndVbViaLan\ClientDemo\obj\Debug\ClientDemo.exe
+E:\Learning Projects\SqlServerAndVbViaLan\ClientDemo\obj\Debug\ClientDemo.xml
+E:\Learning Projects\SqlServerAndVbViaLan\ClientDemo\obj\Debug\ClientDemo.pdb

@@ -1,0 +1,9 @@
+E:\Learning Projects\SqlServerAndVbViaLan\SqlServerAndVbViaLan.Core\bin\Debug\SqlServerAndVbViaLan.Core.dll
+E:\Learning Projects\SqlServerAndVbViaLan\SqlServerAndVbViaLan.Core\bin\Debug\SqlServerAndVbViaLan.Core.pdb
+E:\Learning Projects\SqlServerAndVbViaLan\SqlServerAndVbViaLan.Core\bin\Debug\SqlServerAndVbViaLan.Core.xml
+E:\Learning Projects\SqlServerAndVbViaLan\SqlServerAndVbViaLan.Core\obj\Debug\SqlServerAndVbViaLan.Core.vbprojResolveAssemblyReference.cache
+E:\Learning Projects\SqlServerAndVbViaLan\SqlServerAndVbViaLan.Core\obj\Debug\SqlServerAndVbViaLan.Core.Resources.resources
+E:\Learning Projects\SqlServerAndVbViaLan\SqlServerAndVbViaLan.Core\obj\Debug\SqlServerAndVbViaLan.Core.vbproj.GenerateResource.Cache
+E:\Learning Projects\SqlServerAndVbViaLan\SqlServerAndVbViaLan.Core\obj\Debug\SqlServerAndVbViaLan.Core.dll
+E:\Learning Projects\SqlServerAndVbViaLan\SqlServerAndVbViaLan.Core\obj\Debug\SqlServerAndVbViaLan.Core.xml
+E:\Learning Projects\SqlServerAndVbViaLan\SqlServerAndVbViaLan.Core\obj\Debug\SqlServerAndVbViaLan.Core.pdb

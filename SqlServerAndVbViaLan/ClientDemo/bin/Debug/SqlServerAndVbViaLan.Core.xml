@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SqlServerAndVbViaLan.Core
+</name>
+</assembly>
+<members>
+<member name="T:SqlServerAndVbViaLan.Core.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:SqlServerAndVbViaLan.Core.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:SqlServerAndVbViaLan.Core.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="F:SqlServerAndVbViaLan.Core.SqlServerAndVbViaLanCore.mConnection">
+ <summary>
+ The connection that used to connect database
+ </summary>
+</member>
+<member name="M:SqlServerAndVbViaLan.Core.SqlServerAndVbViaLanCore.ConnectToServer">
+ <summary>
+ Sub used to connect to server from host
+ </summary>
+</member>
+<member name="M:SqlServerAndVbViaLan.Core.SqlServerAndVbViaLanCore.Connect">
+ <summary>
+ Sub used to connect to server directly
+ </summary>
+</member>
+</members>
+</doc>
